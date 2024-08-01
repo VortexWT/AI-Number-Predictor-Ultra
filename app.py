@@ -4,7 +4,7 @@ import numpy as np
 import tensorflow as tf
 
 
-model = tf.keras.models.load_model('AI-2-epochs.keras')
+model = tf.keras.models.load_model('AI (4).keras')
 
 
 def predict_digit(img):
